@@ -91,7 +91,7 @@ public class Questionario3 {
 			}
 			switch (resposta) {
 			// ALTERNATIVA CORRETA
-			case 2:
+			case 4:
 				System.out.println(nome + " A resposta esta correta: ");
 				System.out.println("###################################");
 				pontos++;
